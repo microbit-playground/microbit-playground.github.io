@@ -83,9 +83,12 @@ Running the website on Github does not load a plugin so loads values from _confi
 There are other collections of code on the internet. Here's an incomplete list of awesomeness:
 
 * [mavhc's gists][1] - A collection of ninja python programs
+* [Whaleygeek's github][2] - A collection of games -- microbit Connect 4!
+* [cpina's github][3] - Games & apps
 
 [1]: https://gist.github.com/mavhc
-
+[2]: https://github.com/whaleygeek/microbit_python
+[3]: https://github.com/cpina/macaroni
 
 ## Contributing
 
