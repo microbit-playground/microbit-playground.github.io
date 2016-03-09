@@ -18,7 +18,7 @@ Here's how to do it in a sentence: clone the repo and send it back with micro:bi
 
 ## Contributing in 6 Steps
 
-1. Clone the repo
+1. Clone the [repo][3]
 2. Document your code with `/template/program-template.md` or `/template/program-template-bare.md`.
 3. Copy your `.py` and `.md` files to `/programs/easy/_posts/` or `../medium/...` or `.../ninja/...` depending on dificulty. Naming scheme is `2016-02-24-my-program.*`.
 4. Edit `/template/program-template-header.svg`, add your program name with a text editor and save to `/images/`.
@@ -68,3 +68,4 @@ I recommend using `template_project.md` as it has examples of all the features.
 
 [1]: http://rubyinstaller.org/downloads/
 [2]: https://github.com/oneclick/rubyinstaller/wiki/Development-Kit
+[3]: https://github.com/microbit-playground/microbit-playground.github.io
