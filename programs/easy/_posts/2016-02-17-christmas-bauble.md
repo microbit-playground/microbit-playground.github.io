@@ -13,6 +13,9 @@ image:
   feature: 2016-02-17-christmas-bauble-feature.svg
   teaser:  2016-02-17-christmas-bauble-teaser.gif
 
+video:
+  teaser: 2016-02-17-christmas-bauble-teaser.mp4
+
 # Add only if project is updated after publication. 2016-12-25
 modified:
 
@@ -25,7 +28,7 @@ comments: yes
 
 <figure class="pull-right">
   <img src="{{ site.baseurl }}/images/2016-02-17-christmas-bauble-teaser.gif" alt="Right">
-  <figcaption>Image by <a href="https://github.com/geekfish">geekfish</a>.</figcaption>
+  <figcaption>Video by <a href="https://github.com/geekfish">geekfish</a>.</figcaption>
 </figure>
 
 
