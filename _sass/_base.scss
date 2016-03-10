@@ -107,6 +107,16 @@ li code {
 	border-radius: $border-radius;
 }
 
+h3 code,
+h4 code,
+h5 code,
+h6 code,
+h1 code,
+h2 code {
+	font-weight: normal !important;
+	color: black !important;
+}
+
 /*
    Media and embeds
    ========================================================================== */
