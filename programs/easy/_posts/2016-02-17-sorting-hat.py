@@ -1,7 +1,7 @@
 """
     Harry Potter Sorting Hat
 
-    Copyright (c) 2016 Various
+    Copyright (c) 2016 Various Authors
 
     MIT  Licence
 
