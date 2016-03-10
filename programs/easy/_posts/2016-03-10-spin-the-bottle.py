@@ -1,7 +1,7 @@
 """
      Spin the Bottle
 
-    (c) 2016 Jo Claessens
+    Inspired by Jo Claessens
 
     MIT  Licence
 
