@@ -61,8 +61,8 @@ The website uses `gulp` to complete tasks for production. `gulp` requires `node.
 * `\_config.yml` loads variables for the production environment (eg. `url: https://github...`)
 * `\_plugins\set_development_environment.rb` loads variables for development environment (eg. `url: http://localhost`)
 
-Running the website on localhost loads the development variables from the plugin.
-Running the website on Github does not load a plugin so loads values from _config.yml.
+Running the website on localhost loads the development variables from a plugin.
+Running the website on Github use `_config.yml` production values since plugins are not used on github.
 
 ## TODO
 
@@ -70,6 +70,8 @@ Running the website on Github does not load a plugin so loads values from _confi
 * Use gulp to build images from src/
 * ~~build pretty header images for opengraph (twitter cards/facebook etc)~~
 * Fix jshint error messages when running `gulp scripts`
+* Remove numerals from zip download of python script.
+* Add txt explainer about the programs
 * Style guide & fix typos
   * micro:bit / Microbit / microbit
   * python / Python

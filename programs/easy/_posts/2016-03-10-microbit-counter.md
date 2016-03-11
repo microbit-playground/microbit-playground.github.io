@@ -7,7 +7,7 @@ image:
   teaser: 2016-03-10-microbit-counter-teaser.gif
 modified: null
 share: true
-author: jez_dean
+author: false
 comments: true
 ---
 
