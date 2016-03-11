@@ -51,7 +51,7 @@ import random
 A module (like `random`) is simply a library of pre-existing code for you to
 re-use.
 
-`random.choice(messages)` picks a random item in the `messages` list. The value it picks at random will either be "Truth" or "Dare".
+`random.choice(messages)` picks a random item in the `messages` list. It will pick either "Truth" or "Dare".
 
 When the program picks a random choice it uses `display.scroll` to show message.
 
@@ -65,4 +65,4 @@ just use `from microbit import *`
 
 ![Photo: Jo Claessens]({{ site.baseurl }}/images/2016-03-10-spin-the-bottle-1.jpg)
 
-Be sure to put some stones inside so the micro:bit gets shaken well!
+Be sure to put some stones inside so the micro:bit gets a good shake!

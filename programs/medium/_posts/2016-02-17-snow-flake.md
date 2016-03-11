@@ -13,6 +13,9 @@ image:
   feature: 2016-02-17-snow-flake-feature.svg
   teaser:  2016-02-17-snow-flake-teaser.gif
 
+video:
+  teaser: 2016-02-17-snow-flake-teaser.mp4
+
 # Add only if project is updated after publication. 2016-12-25
 modified:
 
