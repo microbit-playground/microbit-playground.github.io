@@ -2,7 +2,7 @@
 layout: developers
 title: How to Contribute
 modified: null
-excerpt: "Contributing your code is really, really easy."
+excerpt: "Write your Python program and then send it to micro:bit playground for inclusion."
 author: jez_dean
 image: 
   feature: "developers-send-python-code-feature.png"
@@ -61,8 +61,8 @@ You can pick from two templates in the  `/templates` directory.
 
 | Template Name | Description | HTML View | Raw Markdown |
 |---------------|-------------|-----------|--------------|
-| `program-template.md` | Full template with all the features available to document your code | [View](../templates/program-template.html) | [View](project-template.md) |
-| `template_program-bare.md` | Empty template for minimal write up (but please send images!) | [View](program-template-bare.html) | [View](program-template-bare.md) |
+| `program-template.md` | Full template with all the features available to document your code | [View](../templates/program-template.html) | [View](https://raw.githubusercontent.com/microbit-playground/microbit-playground.github.io/master/templates/program-template.md) |
+| `template_program-bare.md` | Empty template for minimal write up (but please send images!) | [View](program-template-bare.html) | [View](https://raw.githubusercontent.com/microbit-playground/microbit-playground.github.io/master/templates/program-template-bare.md) |
 
 I recommend using `template_project.md` as it has examples of all the features.
 

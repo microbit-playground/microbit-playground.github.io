@@ -32,7 +32,7 @@ This is the _kitchen sink_ of templates. I've added every possible thing. Use th
 
 As you can see, the first paragraph is larger so I've made it snappy.
 
-You don't have to add all this fancy stuff[^footnote]. If you want, submit just bare documentation please use [the bare template.](project-template-bare.md) If you do use `template-bare.md` please submit a few photos with pull request; I'll type them up into a project.
+You don't have to add all this fancy stuff[^footnote]. If you want, submit just bare documentation please use [the bare template.](program-template-bare.md) If you do use `template-bare.md` please submit a few photos with pull request; I'll type them up into a project.
 
 [^footnote]: But if you write it up, I will love you forever.
 
