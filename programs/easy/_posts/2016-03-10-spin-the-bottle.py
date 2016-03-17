@@ -1,10 +1,5 @@
 """
      Spin the Bottle
-
-    Inspired by Jo Claessens
-
-    MIT  Licence
-
 """
 
 from microbit import *
