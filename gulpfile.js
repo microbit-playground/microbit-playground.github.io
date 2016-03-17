@@ -40,6 +40,7 @@ var gulp = require('gulp'),
     header = require('gulp-header'), // insert new line in zip
     flatten = require('gulp-flatten'), // flattens directory structure
     convertNewline = require('gulp-convert-newline') // convert to windows new lines
+    del = require('del') // convert to windows new lines
 
 // Combine and minify scripts in js/source
 // output js/main.js & js/main.min.js
@@ -142,4 +143,23 @@ gulp.task('copyzip', function() {
 
 });
 
-gulp.task('default', ['scripts', 'svg2png', 'copyzip', 'copyimages']);
+
+// ******************************************************************************
+// * delete
+// ******************************************************************************
+// delete temp files made by zip.
+
+gulp.task('delete', function() {
+    del(['build/.ptmp*']).then(paths => {
+    console.log('Deleted files and folders:\n', paths.join('\n'));
+    });
+});
+
+
+
+
+
+
+
+
+gulp.task('default', ['scripts', 'svg2png', 'copyzip', 'copyimages', 'delete']);
