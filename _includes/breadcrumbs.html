@@ -2,12 +2,21 @@
   <nav class="breadcrumbs">
     <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
       <a href="{{ site.url }}{{site.baseurl}}/" itemprop="url">
-        <span itemprop="title">Home</span>
-      </a> › 
+        <span itemprop="title" class="gtee">Home</span>
+      </a>
     <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-      <a href="{{ site.url }}{{ site.baseurl }}/{{ page.categories | first }}/" itemprop="url">
-        <span itemprop="title">{{ page.categories | first | replace: '-',' ' | capitalize }}</span>
+      <a href="{{ site.url }}{{ site.baseurl }}/{{ page.categories | first }}/" itemprop="url" >
+        <span itemprop="title" class="gtee">{{ page.categories | first | replace: '-',' ' | capitalize }}</span>
       </a>
     </span>
+
+    <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+      <a href="{{ site.url }}{{ site.baseurl }}/{{ page.url | }}/" itemprop="url">
+        <span itemprop="title" class="finalcrumb">{{ page.title }}</span>
+      </a>
+    </span>
+
+
+
   </nav><!-- /.breadcrumbs -->
 {% endif %}
