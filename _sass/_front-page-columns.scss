@@ -4,21 +4,52 @@
 	align-items: center;
 	justify-content: center;
 }
-.front-page-right-column {
-	@include span-columns(7);
-}
-h3.cent {
+
+h5.cent {
 	text-align: center;
-	margin-top: 1em;
+	margin-top: 0px !important;
 	padding-top: 0px;
 }
+
+
 .front-page-left-column {
-	@include span-columns(5);
-	padding-bottom: 1.5em;
-	padding-top: 0px;
+	@include span-columns(7);
 	text-align: left;
-	background: rgba(black, 0.5);
 }
+
+.front-page-column-header {
+width: 100%;
+}
+.front-page-right-column {
+	@include span-columns(5);
+}
+
+.program-top {
+	margin-top:0em;
+	padding-top:0em;
+	text-align: center;
+}
+
+
+.front-page-inner-left-column {
+	@include span-columns(6);
+	vertical-align: top;
+}
+
+.front-page-inner-right-column {
+	@include span-columns(6);
+	vertical-align: top;
+}
+
+.column-background {
+	padding-top: 1em;
+			background: rgba(black, 0.3);
+
+}
+
+.column-background ol {padding-bottom:1em;}
+
+/*
 .front-page-right-column-end {
 	@include span-columns(7);
 	vertical-align: top;
@@ -28,6 +59,7 @@ h3.cent {
 		margin-bottom: 1em;
 	}
 }
+
 .front-page-left-column-end {
 	@include span-columns(5);
 	vertical-align: top;
@@ -40,6 +72,8 @@ h3.cent {
 		margin: 0px !important;
 	}
 }
+*/ 
+
 /// Project Page Styling
 .project-page h3 {
 	border-bottom: 1px solid $border-color;
@@ -75,3 +109,5 @@ fieldset h3 {
 fieldset .btn {
 	margin-bottom: 0px;
 }
+
+li a {color: white;}
