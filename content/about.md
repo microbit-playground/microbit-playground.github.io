@@ -27,7 +27,7 @@ Below are fine websites to find out more about the micro:bit, Python, and everyt
 ### Python micro:bit Resources
 
 * [mu Editor][1] - A code editor for Python on the micro:bit. This is used to write code for the micro:bit.
-* [Micro:bit muPython API][2] - Developer-friend API docs for MicroPython for the micro:bit.zz
+* [Micro:bit MicroPython API][2] - Developer-friend API docs for MicroPython for the micro:bit.zz
 
 ### Awesome Collections of micro:bit Code
 

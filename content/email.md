@@ -8,14 +8,15 @@ shareable: no
 permalink: about/one
 ---
 
-This site collects all the Micro:bit muPython code on the internet. Contributing is easy---just email or send it to the Github repository.
+This site collects all the Micro:bit MicroPython code on the internet. Contributing is easy---just email or send it to the Github repository.
 
 Happy clicking!
 
 ## Python micro:bit Resources
 
-* [mu Editor](https://github.com/ntoll/mu) - A code editor for Python on the Micro:bit.
-* [Micro:bit muPython API](http://microbit-micropython.readthedocs.org/en/latest/microbit_micropython_api.html) - Developer-friend API docs for muPython.
+* [Micro:bit Tutorials](https://microbit-micropython.readthedocs.org/en/latest/tutorials/introduction.html) - Beginner friendly tutorials for MicroPython on the BBC micro:bit.
+* [mu Editor](https://github.com/ntoll/mu) - A code editor for Python on the micro:bit.
+* [Micro:bit MicroPython API](http://microbit-micropython.readthedocs.org/en/latest/microbit_micropython_api.html) - Developer-friendly API docs for MicroPython.
 
 
 ### bootstrap forms

@@ -12,7 +12,7 @@ permalink: developers/
 ---
 
 
-This website collects examples of muPython code kids can hack and mash. If you have written Python code for the Micro:bit please, please send it here. 
+This website collects examples of MicroPython code kids can hack and mash. If you have written Python code for the Micro:bit please, please send it here. 
 
 Here's how to do it in a sentence: clone the repo and send it back with micro:bit code and documentation.
 
