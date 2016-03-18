@@ -1,4 +1,4 @@
-# Site Config for production Jekyll build 
+# Site config for production Jekyll build 
 # A plugin loads development variables of _config_development.yml
 
 title: "micro:bit Playground"
