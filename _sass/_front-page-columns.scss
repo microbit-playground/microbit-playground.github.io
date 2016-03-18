@@ -44,10 +44,40 @@ width: 100%;
 .column-background {
 	padding-top: 1em;
 			background: rgba(black, 0.3);
+			min-height: 250px;
 
 }
 
 .column-background ol {padding-bottom:1em;}
+
+@media screen  and (max-width: 30em) {
+  .front-page-left-column {
+    width: 100%; 
+
+  }
+    }
+
+  @media screen  and (max-width: 30em) {
+  	.front-page-right-column { 
+    width: 100%; 
+  }  }
+
+    @media screen  and (max-width: 30em) {
+  	.front-page-inner-left-column { 
+    width: 100%; 
+  }  }
+
+    @media screen  and (max-width: 30em) {
+  	.front-page-inner-right-column { 
+    width: 100%; 
+  }  }
+
+    @media screen  and (max-width: 30em) {
+  	.btn-success { 
+    margin-bottom: 1em; 
+  }  }
+
+
 
 /*
 .front-page-right-column-end {
@@ -110,4 +140,4 @@ fieldset .btn {
 	margin-bottom: 0px;
 }
 
-li a {color: white;}
+li a {color: white; text-decoration: none;}
