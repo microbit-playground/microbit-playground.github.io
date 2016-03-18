@@ -1,7 +1,7 @@
 # Site navigation links
 
 - title: Help
-  url: /getting-started/
+  url: "/getting-started/"
   excerpt: "Everything you need to know to get started with Skinny Bones and Jekyll."
   image: 400x250.gif
 
@@ -16,7 +16,7 @@
   image: 400x250.gif
 
 - title: "Cheatsheet"
-  url: cheat.microbit-playground.co.uk
+  url: http://cheat.microbit-playground.co.uk
   except: "cheatsheet for the microbit"
   
 - title: About
