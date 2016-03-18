@@ -40,7 +40,8 @@ var gulp = require('gulp'),
     header = require('gulp-header'), // insert new line in zip
     flatten = require('gulp-flatten'), // flattens directory structure
     convertNewline = require('gulp-convert-newline') // convert to windows new lines
-    del = require('del') // convert to windows new lines
+    del = require('del') // deletes tmp files created by gulp-zip. There was an old woman who swallowed a fly...
+
 
 // Combine and minify scripts in js/source
 // output js/main.js & js/main.min.js

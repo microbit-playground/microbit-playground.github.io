@@ -10,10 +10,14 @@
   excerpt: "Projects you can do at home."
   image: 400x250.gif
 
-- title: Developers
+- title: Devs
   url: /developers/
   excerpt: "Writing for the site."
   image: 400x250.gif
+
+- title: "Cheatsheet"
+  url: cheat.microbit-playground.co.uk
+  except: "cheatsheet for the microbit"
   
 - title: About
   url: /about/
