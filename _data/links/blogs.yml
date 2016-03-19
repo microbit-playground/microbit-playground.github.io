@@ -1,0 +1,6 @@
+- name: 'micro:bit spy'
+  url: 'http://www.microbit-spy.co.uk/'
+  description: 'Blog for news and developments about the micro:bit.'
+- name: 'Geek Gurl Diaries'
+  url: 'http://www.geekgurldiaries.co.uk/'
+  description: YouTube videos about the micro:bit and Raspberry Pi.

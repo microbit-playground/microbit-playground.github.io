@@ -4,13 +4,16 @@
   url: /
 
 - title: Help
-  url: /getting-started/
+  url: /help/
 
 - title: Developers
   url: /developers/
 
 - title: About
   url: /about/
+
+- title: Links
+  url: /links/
 
 - title: Terms
   url: /terms/

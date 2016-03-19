@@ -13,6 +13,8 @@ layout: page
 
 Send your micro:bit programs to jez@geekteacher.co.uk or [see the developer page]({{ site.url }}{{site.baseurl}}/developers/) for more information.
 
+The [cheat sheet](https://cheat.microbit-playground.co.uk) can be used alongside the Python editor for inspiration and help.
+
 {% include post-tabs.html %}
 
 <i class="fa fa-download download-infobox"></i> [Download all programs]({{site.baseurl}}/build/microbit-playground-code.zip)

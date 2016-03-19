@@ -1,0 +1,12 @@
+- name: 'Tech Will Save Us'
+  url: 'https://www.techwillsaveus.com/'
+  description: "micro:bit-related hardware and projects"
+- name: 'Kitronik'
+  url: 'https://www.kitronik.co.uk/'
+  description: 'Accessories for the microbit.'
+- name: 'Adafruit'
+  url: 'https://www.adafruit.com/category/168'
+  description: "For the neopixel; there's a library in micropython for the micro:bit!"
+- name: RS Electronics
+  description: 'for cheap components for the micro:bit'
+  url: 'http://uk.rs-online.com/web/'

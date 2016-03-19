@@ -1,8 +1,8 @@
 # Site navigation links
 
 - title: Help
-  url: "/getting-started/"
-  excerpt: "Everything you need to know to get started with Skinny Bones and Jekyll."
+  url: "/help/"
+  excerpt: "Help for Getting Started on the micro:bit."
   image: 400x250.gif
 
 - title: Programs
@@ -10,16 +10,12 @@
   excerpt: "Projects you can do at home."
   image: 400x250.gif
 
-- title: Devs
-  url: /developers/
-  excerpt: "Writing for the site."
-  image: 400x250.gif
+- title: "Teachers"
+  url: /teachers/
+  except: "Resources for Teachers"
+  
 
 - title: "Cheatsheet"
   url: http://cheat.microbit-playground.co.uk
   except: "cheatsheet for the microbit"
   
-- title: About
-  url: /about/
-  excerpt: "All about this site."
-  image: 400x250.gif
