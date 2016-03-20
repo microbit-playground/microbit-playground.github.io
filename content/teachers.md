@@ -36,7 +36,7 @@ Yes. The BBC has said in its material and adverts that the kids will get them to
 
 #### Relax, it's not a Teaching Project
 
-I beleive the launch is 'give kids a micro:bit to tinker with'; it's not a project for teachers & schools. The educational potential is massive and their use could be incorporated into planning the 2016/2017 school year when class packs will be available.
+I beleive the launch is 'give kids a micro:bit to tinker with'; it's not a project for teachers & schools. The educational potential is massive and their use could be incorporated into planning the 2016/2017 school year when class packs are available.
 
 ## Teaching Resources
 
