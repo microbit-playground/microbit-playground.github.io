@@ -1,0 +1,3 @@
+- name: "Javascript for micro:bit"
+  url: 'http://www.microbit-js.org/'
+  description: 'How to get Espruino running on the microbit.'

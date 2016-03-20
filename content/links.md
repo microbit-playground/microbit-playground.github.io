@@ -30,3 +30,7 @@ To add your site edit one of these files in the Github repository or send an ema
 ### Block Editor &amp; Touch Develop
 
 {% include link-list.html class="links" list="touch-develop" %}
+
+### Javascript
+
+{% include link-list.html class="links" list="javascript" %}
