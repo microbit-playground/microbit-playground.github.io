@@ -50,3 +50,11 @@ You can download it from ARM who designed some of the chips inside the micro:bit
 #### Linux Cannot Connect to the MicroPython REPL in mu
 
 You may need to add yourself to the `dialout` group so Linux can make a USB/serial connection to the device in order to connect to the Python REPL. You'll need to run a command like this: `useradd -G dialout YourUsername`
+
+## Frequently Asked Questions
+
+### Is Python on the microbit complicated?
+
+![image](/images/teachers-python-blocks.png)
+
+No

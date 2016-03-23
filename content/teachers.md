@@ -12,10 +12,14 @@ share: true
 permalink: teachers/
 ---
 
-Teaching resources for the micro:bit are non-existent. All tutorials and projects are geared towards kids. These are all one-off projects with no plan for progression. If you have anything please send consider open sourcing it and emailing it or upload to [CAS](http://community.computingatschool.org.uk).
+Teaching resources are being made. If you make anything please send consider open sourcing it and emailing it or upload to [CAS](http://community.computingatschool.org.uk).
+
+### Why is the Microbit Important for Education?
+
+Many reasons. For me the most important is the ability of the micro:bit to run Python. Instead of teaching Python by moving a turtle around the screen, the kids can write programs that are genuinely interesting. [I have written up my thoughts here.](/teachers/why-python-microbit)
 
 ### News
-_updated 20.03.2016_ 
+_updated 21.03.2016_ 
 
 #### _I received the micro:bits; now what?_
 
