@@ -34,13 +34,6 @@ excerpt: "Microbit News, Programs & Projects."
 </div>
 </div>
 
-<!--
-<div class="front-page-left-column-end">
-</div>
-
-<div class="front-page-right-column-end">
-</div>
--->
 
 <!--
 

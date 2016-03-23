@@ -57,9 +57,9 @@ while True:
         display.show(Image.ANGRY)
 {% endhighlight %}
 
-The micro:bit Python module makes coding really, really straightforward. Beginners can make sense of the program thanks to the simplicity of the microbit module.
+The micro:bit Python module makes coding really, really straightforward. Beginners can understand even advanced programs thanks to the simplicity of the microbit module.
 
-The methods and classes are simple and make intuitive sense. The heavy-lifting is abstracted away from the programmer which results in easy, clean readable code.
+The methods and classes are simple and make intuitive sense. The heavy-lifting is abstracted away from the programmer which results in clean, readable code.
 
 ### Use it at Home
 
@@ -67,7 +67,7 @@ mu is the simple IDE for Python on the micro:bit. The children just download it 
 
 A Python editor can even be used from the browser by visiting microbit.co.uk.
 
-### It make Python Fun
+### It makes Python Fun
 
 Children can create _meaningful_ programs in a few lines of code. Write a compass. Make a pong game. Write a smiley animation. Code a magic 8 ball... 
 
