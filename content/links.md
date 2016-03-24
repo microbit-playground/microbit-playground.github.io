@@ -6,7 +6,7 @@ modified: 2016-01-19
 excerpt:
 tags: [test1, test2]
 image:
-  feature: links.svg
+  feature: links-feature.svg
   teaser: 850x400.png
   thumb: 120x120.gif
 share: true

@@ -3,7 +3,7 @@ layout: page
 title: All About Us
 modified:
 image:
-  feature: about-featured.jpg
+  feature: about-feature.jpg
 shareable: no
 permalink: about/one
 ---

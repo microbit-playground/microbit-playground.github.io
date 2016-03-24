@@ -5,7 +5,7 @@ modified: null
 excerpt: "The problems of using python in school are many. The micro:bit may help change all that!"
 author: jez_dean
 image:
-  feature: "teachers-why-mu.svg"
+  feature: "teachers-why-mu-feature.svg"
 shareable: "yes"
 published: true
 permalink: teachers/why-python-microbit
