@@ -1,0 +1,1 @@
+from microbit import *import randomfriends = ['Rob', 'Jenny','Fred', 'Nirmal', 'Lucia', 'Nazmin', 'Cris']display.scroll(random.choice(friends), 200)
