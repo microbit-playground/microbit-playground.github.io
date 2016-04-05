@@ -1,0 +1,8 @@
+
+- name: "Microsoft micro:bit Page"
+  url: 'https://www.touchdevelop.com/microbit'
+  description: 'Overview of the microbit from Microsoft.'
+- name: Block Editor Documentation
+  url: "https://www.microbit.co.uk/blocks/contents"
+- name: Touch Develop Documentation
+  url: https://www.microbit.co.uk/td/contents

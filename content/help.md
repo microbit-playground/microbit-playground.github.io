@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Getting Started"
+title: "Help"
 date: 2015-06-25T13:57:25-04:00
 modified: 2016-01-19
 excerpt:
@@ -10,56 +10,51 @@ image:
   teaser: 850x400.png
   thumb: 120x120.gif
 share: false
-permalink: getting-started/
+permalink: help/
 ---
-
 
 {% include toc.html %}
 
-#### Where do I download Mu?
+## Editor Options
 
-Mu is the editor used to write python code for the micro:bit. It's an [open source project](https://github.com/ntoll/mu) written by software developers to encourage kids (& adults!) to write code.
-To download it:
+There are two options: you can write code in the online editor or download an editor to work on your desktop.
 
-1. Go to [the mu download page](http://codewith.mu/)
-2. Click your operating system.
-3. Scroll to the bottom of the page and click the final file.
-4. Download and install.
+### Online Editors
 
-#### What if I can't install Mu?
+[microbit.co.uk](https://www.microbit.co.uk/create-code) has four different editors. In order of difficulty, these are:
 
-Visit the official BBC <a href="http://microbit.co.uk/">microbit.co.uk</a> website, click on "Create Code" and select Python. Beginner friendly help for this editor can be <a href="https://microbit.pythonanywhere.com/help.html">found here</a>.
+* Microsoft Block Editor: Block-based editor with 'virtual' micro:bit to test code on.
 
-#### But I use a Chromebook!
+* Code Kingdoms: Block-based editor with hints of javascript.  Also has a 'virtual'
 
-We have you covered! There is a simple MicroPython editor for the micro:bit alreay in the <a href="https://chrome.google.com/webstore/detail/micropython/lhdjeebhcalhgnbigbngiaglmladclbo">Chrome store</a>. :-)
+* Touch Develop: VB-inspired code with friendly introduction to the micro:bit's functions.
 
-#### Where can I get help?
+* Python: Purely text-based programming. It's easier than it looks!
 
-* [Micro:bit Tutorials](https://microbit-micropython.readthedocs.org/en/latest/tutorials/introduction.html) - Beginner friendly tutorials for MicroPython on the BBC micro:bit.
-* [mu Editor](https://github.com/ntoll/mu) - A code editor for Python on the micro:bit.
-* [Micro:bit MicroPython API](http://microbit-micropython.readthedocs.org/en/latest/microbit_micropython_api.html) - Developer-friendly API docs for MicroPython.
+### Offline Editor
 
-## What is...
+Only Python offers an offline editor called mu. It's simple to use and can be downloaded from the [mu website.](https://github.com/ntoll/mu)
 
-#### What's MicroPython?
-
-[MicroPython](https://micropython.org/) is a variant of Python that runs on microcontrollers like the micro:bit. Some of the standard features of Python have been removed so it can fit on a microcontroller.
-
-#### What's Mu?
-
-[mu editor](https://codewith.mu/) is a text editor you can use to write Python code. _mu_ is free and open source. It is written by software developers because they want to help you learn code.
+Mu is open source and written by software developers to encourage kids (& adults) to write code. It's available for Windows, OSX, Linux (Raspberry Pi) and even the [Chromebook!](https://chrome.google.com/webstore/detail/micropython/lhdjeebhcalhgnbigbngiaglmladclbo). 
 
 ## Common Problems
 
 #### Windows Cannot Connect to the Micro:bit
 
-If you're on Windows you may require a driver to fix your problem.
+You may require a driver to communicate with the micro:bit. 
 
 You can download it from ARM who designed some of the chips inside the micro:bit.
 
 [Driver Download](https://developer.mbed.org/handbook/Windows-serial-configuration)
 
-#### Linux Cannot Connect to the MicroPython REPL
+#### Linux Cannot Connect to the MicroPython REPL in mu
 
 You may need to add yourself to the `dialout` group so Linux can make a USB/serial connection to the device in order to connect to the Python REPL. You'll need to run a command like this: `useradd -G dialout YourUsername`
+
+## Frequently Asked Questions
+
+### Is Python on the microbit complicated?
+
+![image](/images/teachers-python-blocks.png)
+
+No

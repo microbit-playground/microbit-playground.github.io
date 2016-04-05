@@ -85,3 +85,5 @@ Integers are numbers. Python understands numbers and can perform calculations wi
 Integers do not have `"`quotation'"` marks and they are treated by python as numbers--or integers!
 
 Clear?
+
+Earlier this year, micro:bits were sent to people all over the world. You can read about their advertures on [micro:bit world tour!](http://microworldtour.github.io/). There's also more about krill counting [on the website too.](http://microworldtour.github.io/microbit/macaroni.html)

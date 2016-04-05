@@ -1,0 +1,9 @@
+- name: 'micro:bit Tutorials'
+  url: 'https://microbit-micropython.readthedocs.org/en/latest/tutorials/introduction.html'
+  description: 'Beginner-friendly tutorials on the micro:bit."'
+- name: 'API Docs'
+  url: 'http://microbit-micropython.readthedocs.org/en/latest/microbit_micropython_api.html'
+  description: 'API docs for MicroPython on the microbit.'
+- name: 'mu Editor'
+  url: "https://codewith.mu/"
+  description: "The only offline editor for the microbit. Windows, OSX &amp; Linux."

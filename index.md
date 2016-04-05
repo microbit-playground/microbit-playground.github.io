@@ -1,7 +1,7 @@
 ---
 layout: home
 image:
-excerpt: "Microbit Python Programs for Download, Hacking & Mashing with the mu editor."
+excerpt: "Microbit News, Programs & Projects."
   
 ---
 <div class="wrap">
@@ -34,13 +34,6 @@ excerpt: "Microbit Python Programs for Download, Hacking & Mashing with the mu e
 </div>
 </div>
 
-<!--
-<div class="front-page-left-column-end">
-</div>
-
-<div class="front-page-right-column-end">
-</div>
--->
 
 <!--
 

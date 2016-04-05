@@ -1,0 +1,3 @@
+{% for link in site.data.[include.class].[include.list] %}
+* [{{link.name}}]({{link.url}}) - {{link.description}}
+{% endfor %}
